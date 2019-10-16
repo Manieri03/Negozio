@@ -21,7 +21,7 @@ namespace Negozio
                 spesascontata = spesa - sconto;
 
             }
-            Console.WriteLine($"L'importo da pagare è di {spesascontata} euro, considerando lo sconto di {sconto} euro");
+            Console.WriteLine($"L'importo da pagare è di {spesascontata} euro, considerando lo sconto di {sconto} euro ");
             Console.ReadLine();
         }
     }
