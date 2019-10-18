@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negozio", "Negozio\Negozio.csproj", "{A52482F2-0A3D-46E9-B54A-AFCC4911AE1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Negozio", "Negozio\Negozio.csproj", "{A52482F2-0A3D-46E9-B54A-AFCC4911AE1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpesaScontata", "SpesaScontata\SpesaScontata.csproj", "{0FA28C09-B0DC-4A7B-B872-FF438EA2F8DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A52482F2-0A3D-46E9-B54A-AFCC4911AE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A52482F2-0A3D-46E9-B54A-AFCC4911AE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A52482F2-0A3D-46E9-B54A-AFCC4911AE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA28C09-B0DC-4A7B-B872-FF438EA2F8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA28C09-B0DC-4A7B-B872-FF438EA2F8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA28C09-B0DC-4A7B-B872-FF438EA2F8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA28C09-B0DC-4A7B-B872-FF438EA2F8DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
